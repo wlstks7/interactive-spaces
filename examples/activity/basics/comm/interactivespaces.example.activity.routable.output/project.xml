@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project type="activity" builder="java">
+    <name>Routable Output Java Example</name>
+    <description>
+An example of writing to a route in Java.
+    </description>
+
+    <identifyingName>interactivespaces.example.activity.routable.output</identifyingName>
+    <version>1.0.0</version>
+</project>
