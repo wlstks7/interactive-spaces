@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project type="activity" builder="java">
+    <name>XBee Endpoint Radio Example Activity</name>
+    <description>
+This Java-based activity drives an XBee endpoint radio and talks to the coordinator.
+    </description>
+
+    <identifyingName>interactivespaces.example.comm.xbee.endpoint</identifyingName>
+    <version>1.0.0</version>
+</project>
