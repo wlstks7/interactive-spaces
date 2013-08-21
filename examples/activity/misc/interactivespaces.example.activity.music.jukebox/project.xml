@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project type="activity" builder="java">
+    <name>Music Jukebox Example Activity</name>
+    <description>
+A music jukebox activity.
+    </description>
+
+    <identifyingName>interactivespaces.activity.music.jukebox</identifyingName>
+    <version>1.0.0</version>
+</project>
